@@ -1,0 +1,1 @@
+C:\Users\Omer\Favorites\Desktop\rust-web\server\target\debug\server.exe: C:\Users\Omer\Favorites\Desktop\rust-web\server\src\main.rs C:\Users\Omer\Favorites\Desktop\rust-web\server\src\models.rs C:\Users\Omer\Favorites\Desktop\rust-web\server\src\schema.rs
